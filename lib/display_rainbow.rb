@@ -10,4 +10,3 @@ puts "V:#{colors[6]}"
 
 end
 display_rainbow
-
